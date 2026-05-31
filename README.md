@@ -1,127 +1,57 @@
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Bubble Sort</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 900px;
-            margin: auto;
-            padding: 30px;
-            line-height: 1.7;
-            background: #f9f9f9;
-            color: #222;
-        }
+```md
+# Privacy Policy
 
-        h1, h2 {
-            color: #111;
-        }
+Last updated: 2026
 
-        .container {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-        }
+Bubble Sort (“the Game”) respects your privacy. This Privacy Policy explains how information may be collected and used when you use the mobile application.
 
-        a {
-            color: #1a73e8;
-        }
-    </style>
-</head>
-<body>
+## Information Collection and Use
 
-<div class="container">
+The Game may use third-party services that collect information used to improve the application and user experience.
 
-    <h1>Privacy Policy</h1>
+These services may include:
 
-    <p><strong>Last updated:</strong> 2026</p>
+- Google AdMob
+- Firebase Analytics
 
-    <p>
-        Bubble Sort (“the Game”) respects your privacy. This Privacy Policy explains how information may be collected and used when you use the mobile application.
-    </p>
+The collected information may include:
 
-    <h2>Information Collection and Use</h2>
+- Device information
+- Crash reports
+- Gameplay statistics
+- Advertising identifiers
 
-    <p>
-        The Game may use third-party services that collect information used to improve the application and user experience.
-    </p>
+## Advertising
 
-    <p>These services may include:</p>
+The Game uses Google AdMob to display advertisements. AdMob may use advertising identifiers and similar technologies to provide personalized and non-personalized ads.
 
-    <ul>
-        <li>Google AdMob</li>
-        <li>Firebase Analytics</li>
-    </ul>
+Learn more about Google’s advertising policies:
 
-    <p>The collected information may include:</p>
+https://policies.google.com/technologies/ads
 
-    <ul>
-        <li>Device information</li>
-        <li>Crash reports</li>
-        <li>Gameplay statistics</li>
-        <li>Advertising identifiers</li>
-    </ul>
+## Analytics
 
-    <h2>Advertising</h2>
+Firebase Analytics may be used to understand user interaction, improve gameplay experience, fix bugs, and optimize app performance.
 
-    <p>
-        The Game uses Google AdMob to display advertisements. AdMob may use advertising identifiers and similar technologies to provide personalized and non-personalized ads.
-    </p>
+## Data Sharing
 
-    <p>
-        Learn more about Google’s advertising policies:
-        <br>
-        <a href="https://policies.google.com/technologies/ads">
-            https://policies.google.com/technologies/ads
-        </a>
-    </p>
+No personal information is sold to third parties.
 
-    <h2>Analytics</h2>
+## Children’s Privacy
 
-    <p>
-        Firebase Analytics may be used to understand user interaction, improve gameplay experience, fix bugs, and optimize app performance.
-    </p>
+The Game is not directed toward children under the age of 13.
 
-    <h2>Data Sharing</h2>
+## Security
 
-    <p>
-        No personal information is sold to third parties.
-    </p>
+Reasonable measures are taken to protect user information and maintain application security.
 
-    <h2>Children’s Privacy</h2>
+## Changes to This Privacy Policy
 
-    <p>
-        The Game is not directed toward children under the age of 13.
-    </p>
+This Privacy Policy may be updated from time to time. Any future changes will be published on this page.
 
-    <h2>Security</h2>
+## Contact
 
-    <p>
-        Reasonable measures are taken to protect user information and maintain application security.
-    </p>
+If you have any questions or suggestions about this Privacy Policy, you can contact:
 
-    <h2>Changes to This Privacy Policy</h2>
-
-    <p>
-        This Privacy Policy may be updated from time to time. Any future changes will be published on this page.
-    </p>
-
-    <h2>Contact</h2>
-
-    <p>
-        If you have any questions or suggestions about this Privacy Policy, you can contact:
-    </p>
-
-    <p>
-        <strong>durallgames@gmail.com</strong>
-    </p>
-
-</div>
-
-</body>
-</html>
+durallgames@gmail.com
 ```
